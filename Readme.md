@@ -1,7 +1,8 @@
 Brian's 360|iDev 2014 Notes
 ===========================
 
-Before reading further, you should really download [Flippy Unicorn](https://itunes.apple.com/us/app/flippy-unicorn/id839557990?mt=8).  You could not to buy the game, but do you really want to live in?
+Before reading further, you should really download [Flippy Unicorn](https://itunes.apple.com/us/app/flippy-unicorn/id839557990?mt=8).  You could not to buy the game, but do you 
+really want to live in a world where you don’t flip unicorns?
 
 *This is not a sponsored advertisement in any way.  It's just an app where you
 flip a unicorn drawn by a kid.  What's not to love?*
